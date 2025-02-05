@@ -89,7 +89,7 @@
         <span class="post-meta-item-icon">
             <i class="ri-quill-pen-line"></i>
             <span class="post-meta-item-text"> 字数统计:</span>
-            <span class="post-count">919</span>
+            <span class="post-count">945</span>
         </span>
     </span>
 
@@ -113,14 +113,17 @@
   
     <div class="article-entry" itemprop="articleBody">
        
-  <h3 id="报错信息："><a href="#报错信息：" class="headerlink" title="报错信息："></a>报错信息：</h3><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ git push -u origin main</span><br><span class="line">fatal: unable to access <span class="string">&#x27;https://github.com/username/repository-name/&#x27;</span>: Failed to connect to github.com port 443 after 21086 ms: Couldn<span class="string">&#x27;t connect to server</span></span><br><span class="line"><span class="string"></span></span><br></pre></td></tr></table></figure>
-
+  <p>fatal: unable to access ‘<a target="_blank" rel="noopener" href="https://github.com/username/repository-name/">https://github.com/username/repository-name/</a>‘: Failed to connect to github.com port 443 after 21086 ms: Couldn’t connect to server</p>
 <p>无法连接到github.com端口443：无法连接到服务器。</p>
+<span id="more"></span>
+
 <p>出现的问题：无法将本地代码提交到 Github 仓库。</p>
 <p>经过查找发现许多人在克隆时也会遇到这种情况。</p>
 <p><strong>原因可能为：网络连接问题或防火墙限制。</strong></p>
 <p>下面为解决方式：</p>
-<span id="more"></span>
+<h3 id="报错信息："><a href="#报错信息：" class="headerlink" title="报错信息："></a>报错信息：</h3><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ git push -u origin main</span><br><span class="line">fatal: unable to access <span class="string">&#x27;https://github.com/username/repository-name/&#x27;</span>: Failed to connect to github.com port 443 after 21086 ms: Couldn<span class="string">&#x27;t connect to server</span></span><br><span class="line"><span class="string"></span></span><br></pre></td></tr></table></figure>
+
+
 
 <h4 id="网络连接问题"><a href="#网络连接问题" class="headerlink" title="网络连接问题"></a>网络连接问题</h4><p>测试与GitHub的连接：打开终端或命令提示符，尝试使用以下命令对GitHub服务器进行ping测试：</p>
 <figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ping github.com</span><br></pre></td></tr></table></figure>
