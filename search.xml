@@ -3,9 +3,9 @@
   <entry>
     <title>Electron学习笔记</title>
     <url>/2023/08/03/Electron%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h1 id="Electron-简介"><a href="#Electron-简介" class="headerlink" title="Electron 简介"></a>Electron 简介</h1><p>Electron（官网：<a href="https://www.electronjs.org/zh/">https://www.electronjs.org/zh/</a>）是由Github开发，用HTML，CSS和JavaScript来构建跨平台桌面应用程序的一个开源框架。</p>
-<span id="more"></span>
+    <content><![CDATA[<span id="more"></span>
 
+<h1 id="Electron-简介"><a href="#Electron-简介" class="headerlink" title="Electron 简介"></a>Electron 简介</h1><p>Electron（官网：<a href="https://www.electronjs.org/zh/">https://www.electronjs.org/zh/</a>）是由Github开发，用HTML，CSS和JavaScript来构建跨平台桌面应用程序的一个开源框架。</p>
 <h1 id="官网消息2023-8"><a href="#官网消息2023-8" class="headerlink" title="官网消息2023.8"></a>官网消息2023.8</h1><h3 id="22-x-y-持续支持​"><a href="#22-x-y-持续支持​" class="headerlink" title="22.x.y 持续支持​"></a>22.x.y 持续支持<a href="https://www.electronjs.org/zh/blog/electron-25-0#22xy-%E6%8C%81%E7%BB%AD%E6%94%AF%E6%8C%81" title="链接到 22.x.y 持续支持">​</a></h3><p>正如<a href="https://www.electronjs.org/blog/windows-7-to-8-1-deprecation-notice">再见 Windows 7&#x2F;8&#x2F;8.1</a> 所述，Electron 22（Chromium 108）的计划寿命终止日期将从 2023 年 5 月 30 日延长至 2023 年 10 月 10 日。 Electron 团队将会继续向 Electron 22 提供本计划中的任何安全修复，直到 2023 年 10 月 10 日。 十月 支持日期遵循 Chromium 和 Microsoft 的延长支持日期。 10 月 11 日，Electron 团队将支持回退到最新的三个稳定主要版本，将不再支持 Windows 7&#x2F;8&#x2F;8.1。</p>
 <table>
 <thead>
@@ -469,10 +469,10 @@
     <title>Exercism.org-Java-Annalyn&#39;s Infiltration</title>
     <url>/2023/08/08/Exercism-org-Java-Annalyn-s-Infiltration/</url>
     <content><![CDATA[<p><a href="https://exercism.org/tracks/java/exercises/annalyns-infiltration">https://exercism.org/tracks/java/exercises/annalyns-infiltration</a></p>
-<h2 id="Instructions"><a href="#Instructions" class="headerlink" title="Instructions"></a>Instructions</h2><p>In this exercise, you’ll be implementing the quest logic for a new RPG game a friend is developing. The game’s main character is Annalyn, a brave girl with a fierce and loyal pet dog. Unfortunately, disaster strikes, as her best friend was kidnapped while searching for berries in the forest. Annalyn will try to find and free her best friend, optionally taking her dog with her on this quest.</p>
-<p>After some time spent following her best friend’s trail, she finds the camp in which her best friend is imprisoned. It turns out there are two kidnappers: a mighty knight and a cunning archer.</p>
 <span id="more"></span>
 
+<h2 id="Instructions"><a href="#Instructions" class="headerlink" title="Instructions"></a>Instructions</h2><p>In this exercise, you’ll be implementing the quest logic for a new RPG game a friend is developing. The game’s main character is Annalyn, a brave girl with a fierce and loyal pet dog. Unfortunately, disaster strikes, as her best friend was kidnapped while searching for berries in the forest. Annalyn will try to find and free her best friend, optionally taking her dog with her on this quest.</p>
+<p>After some time spent following her best friend’s trail, she finds the camp in which her best friend is imprisoned. It turns out there are two kidnappers: a mighty knight and a cunning archer.</p>
 <p>Having found the kidnappers, Annalyn considers which of the following actions she can engage in:</p>
 <ul>
 <li>Fast attack: a fast attack can be made if the knight is sleeping, as it takes time for him to get his armor on, so he will be vulnerable.</li>
@@ -657,10 +657,10 @@
   <entry>
     <title>Exercism.org-Java-Log Levels</title>
     <url>/2023/08/10/Exercism-org-Java-Log-Levels/</url>
-    <content><![CDATA[<h2 id="Instructions"><a href="#Instructions" class="headerlink" title="Instructions"></a>Instructions</h2><p>In this exercise you’ll be processing log-lines.</p>
-<p>Each log line is a string formatted as follows: <code>&quot;[&lt;LEVEL&gt;]: &lt;MESSAGE&gt;&quot;</code>.</p>
-<span id="more"></span>
+    <content><![CDATA[<span id="more"></span>
 
+<h2 id="Instructions"><a href="#Instructions" class="headerlink" title="Instructions"></a>Instructions</h2><p>In this exercise you’ll be processing log-lines.</p>
+<p>Each log line is a string formatted as follows: <code>&quot;[&lt;LEVEL&gt;]: &lt;MESSAGE&gt;&quot;</code>.</p>
 <p>There are three different log levels:</p>
 <ul>
 <li><code>INFO</code></li>
@@ -761,10 +761,10 @@
     <title>Exercism.org-Java-Cook your lasagna</title>
     <url>/2023/08/09/Exercism-org-Java-Cook-your-lasagna/</url>
     <content><![CDATA[<p><a href="https://exercism.org/tracks/java/exercises/lasagna">https://exercism.org/tracks/java/exercises/lasagna</a></p>
-<h2 id="Instructions"><a href="#Instructions" class="headerlink" title="Instructions"></a>Instructions</h2><p>In this exercise you’re going to write some code to help you cook a brilliant lasagna from your favorite cooking book.</p>
-<p>You have four tasks, all related to the time spent cooking the lasagna.</p>
 <span id="more"></span>
 
+<h2 id="Instructions"><a href="#Instructions" class="headerlink" title="Instructions"></a>Instructions</h2><p>In this exercise you’re going to write some code to help you cook a brilliant lasagna from your favorite cooking book.</p>
+<p>You have four tasks, all related to the time spent cooking the lasagna.</p>
 <h3 id="1-Define-the-expected-oven-time-in-minutes"><a href="#1-Define-the-expected-oven-time-in-minutes" class="headerlink" title="1. Define the expected oven time in minutes"></a>1. Define the expected oven time in minutes</h3><p>Define the <code>expectedMinutesInOven()</code> method that does not take any parameters and returns how many minutes the lasagna should be in the oven. According to the cooking book, the expected oven time in minutes is 40:</p>
 <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="type">Lasagna</span> <span class="variable">lasagna</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">Lasagna</span>();</span><br><span class="line"><span class="comment">//Create a Lasagna object using the new keyword</span></span><br><span class="line">lasagna.expectedMinutesInOven();</span><br><span class="line"><span class="comment">//Invoking the expectedMinutesInOven() method in the Lasagna</span></span><br><span class="line"><span class="comment">// =&gt; 40</span></span><br></pre></td></tr></table></figure>
 
@@ -836,8 +836,7 @@
   <entry>
     <title>Github Page博客搭建</title>
     <url>/2050/01/01/Github-Page%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
-    <content><![CDATA[<h1 id="前提介绍"><a href="#前提介绍" class="headerlink" title="前提介绍"></a>前提介绍</h1><p>写了比较详细的Github Page博客搭建相关过程！为方便查阅，特地把本篇内容放在博客置顶。</p>
-<p>本篇前半部分写于2021年，后半部分写于2023年，截至2025年本搭建过程仍可全流程速通。</p>
+    <content><![CDATA[<p>前提介绍：写了比较详细的Github Page博客搭建相关过程！为方便查阅，特地把本篇内容放在博客置顶。本篇前半部分写于2021年，后半部分写于2023年，截至2025年本搭建过程仍可全流程速通。</p>
 <p>已经非常了解Git与Github可直接跳转到：【电脑本地安装：Node.js】或【电脑本地安装：Hexo】目录观看。</p>
 <span id="more"></span>
 
@@ -1555,12 +1554,12 @@
   <entry>
     <title>HTML学习笔记</title>
     <url>/2021/01/23/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h2 id="前置知识"><a href="#前置知识" class="headerlink" title="前置知识"></a>前置知识</h2><h4 id="Web"><a href="#Web" class="headerlink" title="Web"></a>Web</h4><p>结构 : HTML(超文本标记语言)</p>
+    <content><![CDATA[<span id="more"></span>
+
+<h2 id="前置知识"><a href="#前置知识" class="headerlink" title="前置知识"></a>前置知识</h2><h4 id="Web"><a href="#Web" class="headerlink" title="Web"></a>Web</h4><p>结构 : HTML(超文本标记语言)</p>
 <p>表现 : CSS(层叠样式表)</p>
 <p>行为 : JavaScript(脚本语言)</p>
 <p>参考文章 : <a href="https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards">Web 和 Web标准</a></p>
-<span id="more"></span>
-
 <h4 id="文档参考网站"><a href="#文档参考网站" class="headerlink" title="文档参考网站 :"></a>文档参考网站 :</h4><p><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML">MDN</a>(推荐)</p>
 <p><a href="https://www.w3school.com.cn/h.asp">W3School</a>(推荐)</p>
 <p><a href="https://www.runoob.com/html/html-intro.html">菜鸟教程</a></p>
@@ -2192,12 +2191,12 @@
   <entry>
     <title>JavaScript对象相关笔记</title>
     <url>/2021/05/24/JavaScript%E5%AF%B9%E8%B1%A1%E7%9B%B8%E5%85%B3%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h5 id="原生对象"><a href="#原生对象" class="headerlink" title="原生对象"></a>原生对象</h5><p><u><strong>ECMA-262</strong></u>把<strong>本地对象（native object）定义为 “ 独立于宿主环境的 ECMAScript 实现提供的对象”</strong></p>
+    <content><![CDATA[<span id="more"></span>
+
+<h5 id="原生对象"><a href="#原生对象" class="headerlink" title="原生对象"></a>原生对象</h5><p><u><strong>ECMA-262</strong></u>把<strong>本地对象（native object）定义为 “ 独立于宿主环境的 ECMAScript 实现提供的对象”</strong></p>
 <p>“ 本地对象 ” 包含哪些内容：</p>
 <p>Object、Function、Array、String、Boolean、Number、 Date、RegExp、Error、EvalError、RangeError、ReferenceError、SyntaxError、TypeError、 URIError</p>
 <p>由此可以看出，<strong>本地对象就是 ECMA-262 定义的类（引用类型）</strong></p>
-<span id="more"></span>
-
 <hr>
 <h5 id="内置对象"><a href="#内置对象" class="headerlink" title="内置对象"></a>内置对象</h5><p>ECMA-262 把<strong>内置对象（ built-in object ）定义为“由 ECMAScript 实现提供的、独立于宿主环境的所有对象，在 ECMAScript 程序开始执行时出现”。</strong></p>
 <p>这意味着开发者不必明 确实例化内置对象，它已被实例化了 </p>
@@ -2333,12 +2332,12 @@
   <entry>
     <title>Java基础</title>
     <url>/2022/02/24/Java%E5%9F%BA%E7%A1%80/</url>
-    <content><![CDATA[<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><p>TIOBE 编程语言排行榜</p>
+    <content><![CDATA[<span id="more"></span>
+
+<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><p>TIOBE 编程语言排行榜</p>
 <p>Hadoop  分布式系统基础架构</p>
 <p><a href="https://hadoop.apache.org/">Apache Hadoop</a></p>
 <p><a href="https://www.oracle.com/index.html">ORALE ( 甲骨文 )</a></p>
-<span id="more"></span>
-
 <h4 id="IDE-集成开发环境"><a href="#IDE-集成开发环境" class="headerlink" title="IDE(集成开发环境)"></a><a href="https://baike.baidu.com/item/%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/298524?fromtitle=IDE&fromid=8232086&fr=aladdin">IDE(集成开发环境)</a></h4><blockquote>
 <p>MyElipse , Eclipse , IDEA</p>
 <p>(MyEclipse 2017 stable)</p>
@@ -2410,9 +2409,9 @@
   <entry>
     <title>Java对象和类</title>
     <url>/2022/03/04/Java%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB/</url>
-    <content><![CDATA[<h1 id="对象与类"><a href="#对象与类" class="headerlink" title="对象与类"></a>对象与类</h1><h2 id="面向对象程序设计概述"><a href="#面向对象程序设计概述" class="headerlink" title="面向对象程序设计概述"></a>面向对象程序设计概述</h2><p>传统的结构化程序设计通过设计一系列的过程（即算法）来求解问题。面向对象程序设计(object-oriented programming , OOP) 将数据放在第一位 , 然后再考虑操作数据的算法 , 更加适合解决规模较大的问题 .</p>
-<span id="more"></span>
+    <content><![CDATA[<span id="more"></span>
 
+<h1 id="对象与类"><a href="#对象与类" class="headerlink" title="对象与类"></a>对象与类</h1><h2 id="面向对象程序设计概述"><a href="#面向对象程序设计概述" class="headerlink" title="面向对象程序设计概述"></a>面向对象程序设计概述</h2><p>传统的结构化程序设计通过设计一系列的过程（即算法）来求解问题。面向对象程序设计(object-oriented programming , OOP) 将数据放在第一位 , 然后再考虑操作数据的算法 , 更加适合解决规模较大的问题 .</p>
 <h3 id="类"><a href="#类" class="headerlink" title="类"></a>类</h3><p>由类构造（construct）对象的过程称为创建类的实例。<br>封装（encapsulation有时称为数据隐藏）是处理对象的一个重要概念。从形式上看，封装就是将数据和行为组合在一个包中，并对对象的使用者隐藏具体的实现方式。对象中的数据称为实例字段，操作数据的过程称为方法。</p>
 <p>OOP可以通过扩展其他类来构建新类。在扩展一个已有的类时，这个扩展后的新类具有被扩展的类的全部属性和方法。通过扩展一个类来建立另外一个类的过程称为继承。</p>
 <p>类包含的实例字段通常属于某个类类型 .</p>
@@ -2499,7 +2498,9 @@
   <entry>
     <title>Java基础语法</title>
     <url>/2022/03/03/Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</url>
-    <content><![CDATA[<h3 id="对象"><a href="#对象" class="headerlink" title="对象"></a>对象</h3><blockquote>
+    <content><![CDATA[<span id="more"></span>
+
+<h3 id="对象"><a href="#对象" class="headerlink" title="对象"></a>对象</h3><blockquote>
 <p><strong>软件对象也由状态和相关行为组成。</strong></p>
 <p><strong>对象将其状态存储在字段（某些编程语言中的变量）中，并通过方法（某些编程语言中的函数）公开其行为。</strong></p>
 <p>字段<code>cadence</code>、<code>speed</code>和<code>gear</code>表示对象的状态，方法（<code>changeCadence</code>、<code>changeGear</code>等<code>speedUp</code>）定义其与外部世界的交互</p>
@@ -2512,7 +2513,7 @@
 <li>可插入性和易于调试：如果某个特定对象出现问题，您可以简单地将其从应用程序中删除，然后插入一个不同的对象作为替代。这类似于解决现实世界中的机械问题。如果螺栓断裂，则更换<em>它</em>，而不是整台机器。</li>
 </ol>
 </blockquote>
-<span id="more"></span>
+<!--more-->
 
 <h3 id="类"><a href="#类" class="headerlink" title="类"></a>类</h3><blockquote>
 <p>在 Java 编程语言中，每个类都可以有一个直接的超类，并且每个超类都可以有无限数量的<em>子类</em></p>
@@ -2796,39 +2797,18 @@
       </tags>
   </entry>
   <entry>
-    <title>Kirara画廊</title>
-    <url>/2023/08/29/Kirara%E7%94%BB%E5%BB%8A/</url>
-    <content><![CDATA[<p>有关绮良的同人作品画廊</p>
-<span id="more"></span>
-
-
-
-<img src="/2023/08/29/Kirara%E7%94%BB%E5%BB%8A/kirara.png" class="" title="[绮良]">
-
-<img src="/2023/08/29/Kirara%E7%94%BB%E5%BB%8A/touxiang2.png" class="" title="[绮良]">
-
-<img src="/2023/08/29/Kirara%E7%94%BB%E5%BB%8A/lihui.png" class="" title="[绮良]">
-
-<img src="/2023/08/29/Kirara%E7%94%BB%E5%BB%8A/san.png" class="" title="[绮良]">
-
-<img src="/2023/08/29/Kirara%E7%94%BB%E5%BB%8A/xinnian.png" class="" title="[绮良]">
-
-<img src="/2023/08/29/Kirara%E7%94%BB%E5%BB%8A/touxiang.png" class="" title="[绮良]">
-
-
-
-]]></content>
-  </entry>
-  <entry>
     <title>Ubuntu服务器搭建Wordpress个人博客过程</title>
     <url>/2021/06/24/Ubuntu%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BAWordpress%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%BF%87%E7%A8%8B/</url>
-    <content><![CDATA[<p>目录：</p>
+    <content><![CDATA[<p>本篇Ubuntu服务器搭建Wordpress个人博客过程写于2021年，后续无更新补充</p>
+<span id="more"></span>
+
+<p>目录：</p>
 <p>BT-Panel应用镜像系统建站</p>
 <p>Ubutu系统镜像建站</p>
 <h1 id="BT-Panel应用镜像"><a href="#BT-Panel应用镜像" class="headerlink" title="BT-Panel应用镜像"></a>BT-Panel应用镜像</h1><h4 id="参考教程："><a href="#参考教程：" class="headerlink" title="参考教程："></a>参考教程：</h4><p>B站视频教程视频链接：<br>10分钟拥有真正意义上属于自己的网站！网站搭建！：<a href="https://www.bilibili.com/video/BV1D7411B7Yf?t=493">https://www.bilibili.com/video/BV1D7411B7Yf?t=493</a></p>
 <p><strong>( 没有完全按照视频教程，其中一些更改请参照视频和文章内容对比 )</strong></p>
 <p>指导老师：Tokameine：<a href="https://tokameine.top/">https://tokameine.top/</a></p>
-<p>﻿<span id="more"></span></p>
+<p>﻿</p>
 <h4 id="准备过程"><a href="#准备过程" class="headerlink" title="准备过程 :"></a>准备过程 :</h4><h5 id="域名"><a href="#域名" class="headerlink" title="域名 :"></a><strong>域名</strong> :</h5><p>在阿里云购买域名后解析</p>
 <h5 id="服务器"><a href="#服务器" class="headerlink" title="服务器 :"></a><strong>服务器</strong> :</h5><p>阿里云轻量应用服务器</p>
 <h5 id="应用镜像-BT-Panel"><a href="#应用镜像-BT-Panel" class="headerlink" title="应用镜像 : BT-Panel"></a><strong>应用镜像 : BT-Panel</strong></h5><p>其他根据个人需求选择</p>
@@ -2901,112 +2881,21 @@
       </tags>
   </entry>
   <entry>
-    <title>Ubuntu22.04安装MySQL</title>
-    <url>/2023/05/06/Ubuntu22-04%E5%AE%89%E8%A3%85MySQL/</url>
-    <content><![CDATA[<h4 id="1、安装服务器端"><a href="#1、安装服务器端" class="headerlink" title="1、安装服务器端"></a>1、安装服务器端</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> apt-get install mysql-server</span><br></pre></td></tr></table></figure>
-
-<h4 id="2、安装客户端"><a href="#2、安装客户端" class="headerlink" title="2、安装客户端"></a>2、安装客户端</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> apt-get install mysql-client</span><br></pre></td></tr></table></figure>
-
-<h4 id="3、安装-mysql-相关库"><a href="#3、安装-mysql-相关库" class="headerlink" title="3、安装 mysql 相关库"></a>3、安装 mysql 相关库</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> apt-get install libmysqlclient-dev</span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-
-<h4 id="4、安装成功后查看-MySQL-版本"><a href="#4、安装成功后查看-MySQL-版本" class="headerlink" title="4、安装成功后查看 MySQL 版本"></a>4、安装成功后查看 MySQL 版本</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">mysql -V</span><br></pre></td></tr></table></figure>
-
-<img src="/2023/05/06/Ubuntu22-04%E5%AE%89%E8%A3%85MySQL/ubuntu22installmysql1.png" class="" title="[查看MySQL版本]">
-
-<p><img src="D:\Morlvoid\Morlvoid.github.io\source_posts\Ubuntu22-04安装MySQL\ubuntu22installmysql1.png" alt="查看MySQL版本"></p>
-<h4 id="5、修改-mysqld-cnf-配置文件"><a href="#5、修改-mysqld-cnf-配置文件" class="headerlink" title="5、修改 mysqld.cnf 配置文件"></a>5、修改 mysqld.cnf 配置文件</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> vim /etc/mysql/mysql.conf.d/mysqld.cnf</span><br></pre></td></tr></table></figure>
-
-<p> （1）在 [mysqld] 最后一行加入：  </p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># skip-grant-tables　　　　&lt;-- add # here</span></span><br></pre></td></tr></table></figure>
-
-<p> （2）然后点击 ESC ，输入 ‘ ：wq ’ 进行保存和退出；如下图所示；</p>
-<p> <strong>注：如果不修改 mysqld.cnf 配置文件，修改完 MySQL 的用户名和密码后，在进入 MySQL 时可能会有如下错误，即语法错误拒绝被访问：</strong></p>
-<img src="/2023/05/06/Ubuntu22-04%E5%AE%89%E8%A3%85MySQL/ubuntu22installmysqlvi2.png" class="" title="[修改配置文件]">
-
-<p><img src="D:\Morlvoid\Morlvoid.github.io\source_posts\Ubuntu22-04安装MySQL\ubuntu22installmysqlvi2.png" alt="修改配置文件"></p>
-<h4 id="6、查看默认安装的-MySQL-的用户名和密码"><a href="#6、查看默认安装的-MySQL-的用户名和密码" class="headerlink" title="6、查看默认安装的 MySQL 的用户名和密码"></a>6、查看默认安装的 MySQL 的用户名和密码</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> <span class="built_in">cat</span> /etc/mysql/debian.cnf</span><br></pre></td></tr></table></figure>
-
-<img src="/2023/05/06/Ubuntu22-04%E5%AE%89%E8%A3%85MySQL/ubuntu22installmysql1cnf.png" class="" title="[修改配置文件]">
-
-<p><img src="D:\Morlvoid\Morlvoid.github.io\source_posts\Ubuntu22-04安装MySQL\ubuntu22installmysql1cnf.png" alt="修改配置文件"></p>
-<h4 id="7、登录-MySQL-；"><a href="#7、登录-MySQL-；" class="headerlink" title="7、登录 MySQL ；"></a>7、登录 MySQL ；</h4><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">mysql -u debian-sys-maint -p    # 换行后输入上述查到的密码</span><br></pre></td></tr></table></figure>
-
-<img src="/2023/05/06/Ubuntu22-04%E5%AE%89%E8%A3%85MySQL/ubuntu22installmysqlu1.png" class="" title="[查看默认安装的用户名和密码]">
-
-<img src="ubuntu22installmysqlu1.png" alt="查看默认安装的用户名和密码">
-
-<p><img src="D:\Morlvoid\Morlvoid.github.io\source_posts\Ubuntu22-04安装MySQL\ubuntu22installmysqlu1.png" alt="查看默认安装的用户名和密码"></p>
-<h4 id="8、进入-MySQL-；"><a href="#8、进入-MySQL-；" class="headerlink" title="8、进入 MySQL ；"></a>8、进入 MySQL ；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">use mysql;</span><br></pre></td></tr></table></figure>
-
-<h4 id="9、刷新权限；"><a href="#9、刷新权限；" class="headerlink" title="9、刷新权限；"></a>9、刷新权限；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">flush privileges;</span><br></pre></td></tr></table></figure>
-
-<h4 id="10、修改用户名和密码；"><a href="#10、修改用户名和密码；" class="headerlink" title="10、修改用户名和密码；"></a>10、修改用户名和密码；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ALTER USER <span class="string">&#x27;root&#x27;</span>@<span class="string">&#x27;localhost&#x27;</span> IDENTIFIED WITH caching_sha2_password BY <span class="string">&#x27;123456&#x27;</span>;</span><br></pre></td></tr></table></figure>
-
-<h4 id="11、刷新权限；"><a href="#11、刷新权限；" class="headerlink" title="11、刷新权限；"></a>11、刷新权限；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">flush privileges;</span><br></pre></td></tr></table></figure>
-
-<h4 id="12、退出；"><a href="#12、退出；" class="headerlink" title="12、退出；"></a>12、退出；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">quit;</span><br></pre></td></tr></table></figure>
-
-<h4 id="13、重启-MySQL-；"><a href="#13、重启-MySQL-；" class="headerlink" title="13、重启 MySQL ；"></a>13、重启 MySQL ；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">service mysql restart</span><br></pre></td></tr></table></figure>
-
-<h4 id="14、进入-MySQL-；"><a href="#14、进入-MySQL-；" class="headerlink" title="14、进入 MySQL ；"></a>14、进入 MySQL ；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">mysql -u root -p    <span class="comment"># 回车后输入自己修改后的密码即可</span></span><br></pre></td></tr></table></figure>
-
-<h4 id="若以上过程没有效果，进行以下步骤："><a href="#若以上过程没有效果，进行以下步骤：" class="headerlink" title="若以上过程没有效果，进行以下步骤："></a>若以上过程没有效果，进行以下步骤：</h4><h4 id="15、修改-mysqld-cnf-配置文件"><a href="#15、修改-mysqld-cnf-配置文件" class="headerlink" title="15、修改 mysqld.cnf 配置文件"></a>15、修改 mysqld.cnf 配置文件</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> vim /etc/mysql/debian.cnf</span><br></pre></td></tr></table></figure>
-
-<img src="/2023/05/06/Ubuntu22-04%E5%AE%89%E8%A3%85MySQL/ubuntu22installmysqlroot.png" class="" title="[修改cnf文件]">
-
-<p><img src="D:\Morlvoid\Morlvoid.github.io\source_posts\Ubuntu22-04安装MySQL\ubuntu22installmysqlroot.png" alt="修改cnf文件"></p>
-<h4 id="16、保存退出"><a href="#16、保存退出" class="headerlink" title="16、保存退出"></a>16、保存退出</h4><p>键入<code>i</code> 进入，修改user和password<br>键入<code>Esc</code>，输入<code>:wq</code> 保存退出。退出vi后刷新权限退出MySQL，重启</p>
-<h4 id="17、刷新权限；"><a href="#17、刷新权限；" class="headerlink" title="17、刷新权限；"></a>17、刷新权限；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">flush privileges;</span><br></pre></td></tr></table></figure>
-
-<h4 id="18、退出；"><a href="#18、退出；" class="headerlink" title="18、退出；"></a>18、退出；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">quit;</span><br></pre></td></tr></table></figure>
-
-<h4 id="19、重启-MySQL-；"><a href="#19、重启-MySQL-；" class="headerlink" title="19、重启 MySQL ；"></a>19、重启 MySQL ；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">service mysql restart</span><br></pre></td></tr></table></figure>
-
-<h4 id="20、进入-MySQL-；"><a href="#20、进入-MySQL-；" class="headerlink" title="20、进入 MySQL ；"></a>20、进入 MySQL ；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">mysql -u root -p    <span class="comment"># 回车后输入自己修改后的密码即可</span></span><br></pre></td></tr></table></figure>
-
-<h4 id="修改成功"><a href="#修改成功" class="headerlink" title="修改成功"></a>修改成功</h4><h3 id="MySQL中help手册翻译"><a href="#MySQL中help手册翻译" class="headerlink" title="MySQL中help手册翻译"></a>MySQL中help手册翻译</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">List of all MySQL commands:</span><br><span class="line">Note that all text commands must be first on line and end with <span class="string">&#x27;;&#x27;</span></span><br><span class="line">?         (\?) Synonym <span class="keyword">for</span> `<span class="built_in">help</span><span class="string">&#x27;.</span></span><br><span class="line"><span class="string">clear     (\c) Clear the current input statement.</span></span><br><span class="line"><span class="string">connect   (\r) Reconnect to the server. Optional arguments are db and host.</span></span><br><span class="line"><span class="string">delimiter (\d) Set statement delimiter.</span></span><br><span class="line"><span class="string">edit      (\e) Edit command with $EDITOR.</span></span><br><span class="line"><span class="string">ego       (\G) Send command to mysql server, display result vertically.</span></span><br><span class="line"><span class="string">exit      (\q) Exit mysql. Same as quit.</span></span><br><span class="line"><span class="string">go        (\g) Send command to mysql server.</span></span><br><span class="line"><span class="string">help      (\h) Display this help.</span></span><br><span class="line"><span class="string">nopager   (\n) Disable pager, print to stdout.</span></span><br><span class="line"><span class="string">notee     (\t) Don&#x27;</span>t write into outfile.</span><br><span class="line">pager     (\P) Set PAGER [to_pager]. Print the query results via PAGER.</span><br><span class="line"><span class="built_in">print</span>     (\p) Print current <span class="built_in">command</span>.</span><br><span class="line">prompt    (\R) Change your mysql prompt.</span><br><span class="line">quit      (\q) Quit mysql.</span><br><span class="line"><span class="built_in">rehash</span>    (\#) Rebuild completion <span class="built_in">hash</span>.</span><br><span class="line"><span class="built_in">source</span>    (\.) Execute an SQL script file. Takes a file name as an argument.</span><br><span class="line">status    (\s) Get status information from the server.</span><br><span class="line">system    (\!) Execute a system shell <span class="built_in">command</span>.</span><br><span class="line"><span class="built_in">tee</span>       (\T) Set outfile [to_outfile]. Append everything into given outfile.</span><br><span class="line">use       (\u) Use another database. Takes database name as argument.</span><br><span class="line">charset   (\C) Switch to another charset. Might be needed <span class="keyword">for</span> processing binlog with multi-byte charsets.</span><br><span class="line">warnings  (\W) Show warnings after every statement.</span><br><span class="line">nowarning (\w) Don<span class="string">&#x27;t show warnings after every statement.</span></span><br><span class="line"><span class="string">resetconnection(\x) Clean session context.</span></span><br><span class="line"><span class="string">query_attributes Sets string parameters (name1 value1 name2 value2 ...) for the next query to pick up.</span></span><br><span class="line"><span class="string">ssl_session_data_print Serializes the current SSL session data to stdout or file</span></span><br><span class="line"><span class="string"></span></span><br></pre></td></tr></table></figure>
-
-
-
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">所有MySQL命令的列表：</span><br><span class="line">请注意，所有文本命令都必须位于第一行，并以“；”结尾</span><br><span class="line">?         （\？）“帮助”的同义词。</span><br><span class="line">clear（\c）清除当前输入语句。</span><br><span class="line">connect（\r）重新连接到服务器。可选参数为db和host。</span><br><span class="line">delimiter（\d）设置语句分隔符。</span><br><span class="line">edit（\e）使用<span class="variable">$EDITOR</span>编辑命令。</span><br><span class="line">ego（\G）向mysql服务器发送命令，垂直显示结果。</span><br><span class="line"><span class="built_in">exit</span>（\q）退出mysql。与退出相同。</span><br><span class="line">go（\g）将命令发送到mysql服务器。</span><br><span class="line"><span class="built_in">help</span>（\h）显示此帮助。</span><br><span class="line">nopage（\n）禁用寻呼机，打印到标准输出。</span><br><span class="line">notee（\t）不要写入outfile。</span><br><span class="line">寻呼机（\P）设置pager[到页面]。通过PAGER打印查询结果。</span><br><span class="line"><span class="built_in">print</span>（\p）打印当前命令。</span><br><span class="line">prompt（\R）更改您的mysql提示符。</span><br><span class="line">quit（\q）退出mysql。</span><br><span class="line"><span class="built_in">rehash</span>（\#）重新生成完成哈希。</span><br><span class="line"><span class="built_in">source</span>（\.）执行SQL脚本文件。将文件名作为参数。</span><br><span class="line">status（\s）从服务器获取状态信息。</span><br><span class="line">system（\！）执行系统shell命令。</span><br><span class="line"><span class="built_in">tee</span>（\T）设置输出文件[to_outfile]。将所有内容附加到给定的外文件中。</span><br><span class="line">use（\u）使用另一个数据库。将数据库名称作为参数。</span><br><span class="line">charset（\C）切换到另一个字符集。可能需要处理具有多字节字符集的binlog。</span><br><span class="line">warnings（\W）在每条语句后显示警告。</span><br><span class="line">nowarning（\w）不要在每条语句后都显示警告。</span><br><span class="line">resetconnection（\x）清除会话上下文。</span><br><span class="line">query_attributes为下一个要提取的查询设置字符串参数（名称1值1名称2值2…）。</span><br><span class="line">ssl_session_data_print将当前ssl会话数据序列化到stdout或文件</span><br></pre></td></tr></table></figure>
-
-
-<h3 id="其他命令："><a href="#其他命令：" class="headerlink" title="其他命令："></a>其他命令：</h3><h4 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> apt update   </span><br></pre></td></tr></table></figure>
-
-<h4 id="免密码进入mysql："><a href="#免密码进入mysql：" class="headerlink" title="免密码进入mysql："></a>免密码进入mysql：</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> mysql -uroot</span><br></pre></td></tr></table></figure>
-
-
-
-<p>参考教程：</p>
-<p><a href="http://t.csdn.cn/x34S">Ubuntu 20.04 + mysql 8.0.27 用户名和密码修改</a></p>
-]]></content>
-      <categories>
-        <category>Node</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-        <tag>Ubuntu</tag>
-        <tag>Ubuntu22.04</tag>
-        <tag>Ubuntu22.04安装MySQL</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Unexpectedly discovered galaxy clusters resembling bluewhales in shape</title>
     <url>/2020/08/11/Unexpectedly-discovered-galaxy-clusters-resembling-bluewhales-in-shape/</url>
-    <content><![CDATA[<p>作者：（Mor）Mor·Mirror·Blank</p>
-<p>MUVVSA今日发布了新文章：《Unexpectedly discovered galaxy clusters resembling blue whales in shape》，对该文章做以下解读：</p>
-<h1 id="目录："><a href="#目录：" class="headerlink" title="目录："></a>目录：</h1><p>名词解读<br>JING-17星系团的特点<br>文章主体部分中文翻译<br>    题目<br>    正文<br>文章侧边栏部分中文翻译</p>
+    <content><![CDATA[<p>本篇为游戏项目【游鲸】的概念艺术设计脚本。</p>
 <span id="more"></span>
 
-<h1 id="名词解读"><a href="#名词解读" class="headerlink" title="名词解读"></a>名词解读</h1><p>MUVVSA全名：Mor Unify Virtually Vision Space Administration<br>(Mor统一虚拟幻象太空管理局)<br>（类似NASA、CNSA航天局）</p>
+<h1 id="Unexpectedly-discovered-galaxy-clusters-resembling-bluewhales-in-shape"><a href="#Unexpectedly-discovered-galaxy-clusters-resembling-bluewhales-in-shape" class="headerlink" title="Unexpectedly discovered galaxy clusters resembling bluewhales in shape"></a>Unexpectedly discovered galaxy clusters resembling bluewhales in shape</h1><p>作者：（Mor）Mor·Mirror·Blank</p>
+<p>MUVVSA今日发布了新文章：《Unexpectedly discovered galaxy clusters resembling blue whales in shape》，对该文章做以下解读：</p>
+<h2 id="目录："><a href="#目录：" class="headerlink" title="目录："></a>目录：</h2><p>名词解读<br>JING-17星系团的特点<br>文章主体部分中文翻译<br>    题目<br>    正文<br>文章侧边栏部分中文翻译</p>
+<h2 id="名词解读"><a href="#名词解读" class="headerlink" title="名词解读"></a>名词解读</h2><p>MUVVSA全名：Mor Unify Virtually Vision Space Administration<br>(Mor统一虚拟幻象太空管理局)<br>（类似NASA、CNSA航天局）</p>
 <p>MookaMiTeX-ray Observatory  ：MookaMiTeX-ray 天文摄像台</p>
-<h1 id="JING-17星系团的特点："><a href="#JING-17星系团的特点：" class="headerlink" title="JING-17星系团的特点："></a>JING-17星系团的特点：</h1><p>1.特殊的能量，无法解析<br>2.粒子波动，无法解析<br>3.星系团在不断扩张<br>4.星系团在移动<br>5.星系团疑似会吞噬附近10光年内的天体<br>6.星系团与蓝鲸高度像似</p>
+<h2 id="JING-17星系团的特点："><a href="#JING-17星系团的特点：" class="headerlink" title="JING-17星系团的特点："></a>JING-17星系团的特点：</h2><p>1.特殊的能量，无法解析<br>2.粒子波动，无法解析<br>3.星系团在不断扩张<br>4.星系团在移动<br>5.星系团疑似会吞噬附近10光年内的天体<br>6.星系团与蓝鲸高度像似</p>
 <p>做出以下猜测：或许JING-17是一个有生命的小型星系团，星系团内包含诸多天体，JING-17是一只小型生命宇宙，不断“游动”与“觅食”，将附近的天体作为自己的食物来源。</p>
 <p>暂且将它归类为：移动生命宇宙。</p>
-<h1 id="文章主体部分中文翻译"><a href="#文章主体部分中文翻译" class="headerlink" title="文章主体部分中文翻译"></a>文章主体部分中文翻译</h1><h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><p>意外发现了形状酷似蓝鲸的星系团</p>
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>如标题所说，发现了具有特定重要特征的星系团。</p>
+<h2 id="文章主体部分中文翻译"><a href="#文章主体部分中文翻译" class="headerlink" title="文章主体部分中文翻译"></a>文章主体部分中文翻译</h2><h3 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h3><p>意外发现了形状酷似蓝鲸的星系团</p>
+<h3 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h3><p>如标题所说，发现了具有特定重要特征的星系团。</p>
 <p>由MUVVSA的MookaMiTeX射线天文台观测到异常能量团，该能量团附近有无法确认的粒子波动。由于该星系团与其他星系团极为不同，VU天文望远镜也无法拍摄，下图由著名画家凯特·艾米·奇拉在相关检测数据和科学家的描述下绘制的概念蓝图。</p>
 <p>该星系团形状与蓝鲸极为相似，距前后七日的观测对比，星系团直径每七日扩大约为10cm，初步推测该星系团将会不断扩张。同时该星系团位置也有所变化。暂时无法观测该星系团的年龄与星系团边界距离地球的实际距离。更详细的相关研究结果已发布多篇论文。</p>
 <p>由于星系团是宇宙中最大的结构之一，随着时间的推移，它会与其他星系团或星系团合并，从而导致星系团气体的不对称或尖锐特征等干扰。科学家们并不确保JING-17这个星系团是否会对太阳系乃至地球造成影响，因为随着它们的大小增加，它们通常仍在经历与其他星系团或星系群合并的混乱。</p>
@@ -3016,26 +2905,22 @@
 <p>莫尔认为，宇宙中存在小型生命宇宙并非不可能，她将会在未来一段时间持续关注该星系团来印证这个猜想。</p>
 <p>想了解更多的信息，请阅读：</p>
 <p><a href="https://www.muvvsa.mor/jing17">https://www.muvvsa.mor/jing17</a></p>
-<h1 id="文章侧边栏部分中文翻译"><a href="#文章侧边栏部分中文翻译" class="headerlink" title="文章侧边栏部分中文翻译"></a>文章侧边栏部分中文翻译</h1><p>(其实都是凑字数的)<br>所有其他的小世界观都发生在这个移动的宇宙中。<br>世界观故事的起点也在这里。<br>除了世界观的作者Mor，没有人知道这个宇宙是如何形成的，具体内容现在还不能剧透。<br>目前，科学家们只发现了这个宇宙。如果你想看后续，记得关注Mor（？）<br>为了写一个世界观，我写了一个网站。世界观的名字叫“JING-17”。<br>我胡编乱造了一份报告。<br>欢迎来看这个世界观，虽然你可能看不懂全英文。<br>这些英语都是机器翻译的，所以可能很好笑。<br>我还在要努力凑字数。<br>如果你对这个世界观有兴趣，你可以随时小窗我讨论。<br>这个网站是用代码写的，我可以随时更改内容（其实已经完全不想改了）。<br>世界观的中文名称是“鲸歌”。好了，终于凑够字数了。请看右边的内容。</p>
+<h2 id="文章侧边栏部分中文翻译"><a href="#文章侧边栏部分中文翻译" class="headerlink" title="文章侧边栏部分中文翻译"></a>文章侧边栏部分中文翻译</h2><p>(其实都是凑字数的)<br>所有其他的小世界观都发生在这个移动的宇宙中。<br>世界观故事的起点也在这里。<br>除了世界观的作者Mor，没有人知道这个宇宙是如何形成的，具体内容现在还不能剧透。<br>目前，科学家们只发现了这个宇宙。如果你想看后续，记得关注Mor（？）<br>为了写一个世界观，我写了一个网站。世界观的名字叫“JING-17”。<br>我胡编乱造了一份报告。<br>欢迎来看这个世界观，虽然你可能看不懂全英文。<br>这些英语都是机器翻译的，所以可能很好笑。<br>我还在要努力凑字数。<br>如果你对这个世界观有兴趣，你可以随时小窗我讨论。<br>这个网站是用代码写的，我可以随时更改内容（其实已经完全不想改了）。<br>世界观的中文名称是“鲸歌”。好了，终于凑够字数了。请看右边的内容。</p>
 <p>（写个世界观主线好累啊（不你）</p>
 <img src="/2020/08/11/Unexpectedly-discovered-galaxy-clusters-resembling-bluewhales-in-shape/shijieguan.png" class="" title="[游鲸]">]]></content>
       <categories>
         <category>OC</category>
       </categories>
       <tags>
-        <tag>Jing17</tag>
-        <tag>世界观</tag>
-        <tag>游鲸</tag>
-        <tag>OC</tag>
+        <tag>概念艺术</tag>
       </tags>
   </entry>
   <entry>
     <title>cropper剪裁插件的用法</title>
     <url>/2021/05/26/cropper%E5%89%AA%E8%A3%81%E6%8F%92%E4%BB%B6%E7%9A%84%E7%94%A8%E6%B3%95/</url>
-    <content><![CDATA[<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>加载的文件</p>
-<span id="more"></span>
+    <content><![CDATA[<span id="more"></span>
 
-<p>必须按照顺序加载三个js</p>
+<p>使用方法：加载的文件必须按照顺序加载三个js</p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;../assets/lib/cropper/cropper.css&quot;</span>&gt;</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;../assets/lib/jquery.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;../assets/lib/cropper/Cropper.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;../assets/lib/cropper/jquery-cropper.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure>
 
 
@@ -3180,11 +3065,14 @@
   <entry>
     <title>YAML学习笔记</title>
     <url>/2023/06/19/YAML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h1 id="什么是-YAML？"><a href="#什么是-YAML？" class="headerlink" title="什么是 YAML？"></a>什么是 YAML？</h1><p><a href="https://yaml.org/">yaml官网</a></p>
+    <content><![CDATA[<p>还算详尽的YAML学习笔记</p>
+<span id="more"></span>
+
+<h1 id="什么是-YAML？"><a href="#什么是-YAML？" class="headerlink" title="什么是 YAML？"></a>什么是 YAML？</h1><p><a href="https://yaml.org/">yaml官网</a></p>
 <blockquote>
 <p>YAML: YAML Ain’t Markup Language™<br>What It Is:<br>YAML is a human-friendly data serialization<br>language for all programming languages.<br>It uses Unicode <a href="https://yaml.org/spec/1.2.2/#character-set">printable</a> characters, <a href="https://yaml.org/spec/1.2.2/#indicator-characters">some</a> of which provide structural information and the rest containing the data itself.<br>There are many kinds of <a href="https://yaml.org/spec/1.2.2/#dump">data structures</a>, but they can all be adequately <a href="https://yaml.org/spec/1.2.2/#representation-graph">represented</a> with three basic primitives: <a href="https://yaml.org/spec/1.2.2/#mapping">mappings</a> (hashes&#x2F;dictionaries), <a href="https://yaml.org/spec/1.2.2/#sequence">sequences</a> (arrays&#x2F;lists) and <a href="https://yaml.org/spec/1.2.2/#scalars">scalars</a> (strings&#x2F;numbers).<br>YAML was specifically created to work well for common use cases such as: configuration files, log files, interprocess messaging, cross-language data sharing, object persistence and debugging of complex data structures.</p>
 </blockquote>
-<span id="more"></span>
+<!--more-->
 
 <blockquote>
 <p>YAML：YAML Ain’t Markup Language™<br>它是什么：<br>YAML是一种人性化的数据序列化语言，适用于所有编程语言。<br>它使用Unicode <a href="https://yaml.org/spec/1.2.2/#character-set">可打印</a> 的字符，其中一些提供结构信息，其余包含数据本身。<br>有许多种数据结构，但它们都可以用三个基本原语充分<a href="https://yaml.org/spec/1.2.2/#representation-graph">表示</a>：映射（哈希&#x2F;字典）、序列（数组&#x2F;列表）和标量（字符串&#x2F;数字）。<br>YAML是专门为常见用例而创建的，例如：配置文件、日志文件、进程间消息传递、跨语言数据共享、对象持久化和调试复杂数据结构。</p>
@@ -3550,9 +3438,9 @@
   <entry>
     <title>前端技术查询</title>
     <url>/2021/04/20/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%9F%A5%E8%AF%A2/</url>
-    <content><![CDATA[<h3 id="PC端网站"><a href="#PC端网站" class="headerlink" title="PC端网站"></a>PC端网站</h3><span id="more"></span>
+    <content><![CDATA[<span id="more"></span>
 
-<ul>
+<h3 id="PC端网站"><a href="#PC端网站" class="headerlink" title="PC端网站"></a>PC端网站</h3><ul>
 <li>掘金社区</li>
 <li>CSDN社区</li>
 <li>博客园</li>
@@ -3753,17 +3641,16 @@
         <category>Node</category>
       </categories>
       <tags>
-        <tag>动画剧本</tag>
+        <tag>动漫设计</tag>
       </tags>
   </entry>
   <entry>
     <title>博客介绍</title>
-    <url>/2099/11/29/%E5%8D%9A%E5%AE%A2%E4%BB%8B%E7%BB%8D/</url>
+    <url>/2099/01/15/%E5%8D%9A%E5%AE%A2%E4%BB%8B%E7%BB%8D/</url>
     <content><![CDATA[<p>欢迎来看我的博客！可以叫我Mor、馍馍。</p>
-<p>我的主页：<a href="https://www.morlvoid.pro/">https://www.morlvoid.pro/</a></p>
-<p><a href="https://space.bilibili.com/40103446">https://space.bilibili.com/40103446</a></p>
+<p>我的主页：<a href="https://www.morlvoid.pro/">博客首页</a> <a href="https://space.bilibili.com/40103446">B站首页</a> <a href="https://www.pixiv.net/users/18803642">P站首页</a></p>
 <p>更多自我介绍请点击左侧“关于”。</p>
-<img src="/2099/11/29/%E5%8D%9A%E5%AE%A2%E4%BB%8B%E7%BB%8D/png.png" class="" title="[介绍]">]]></content>
+<img src="/2099/01/15/%E5%8D%9A%E5%AE%A2%E4%BB%8B%E7%BB%8D/png.png" class="" title="[介绍]">]]></content>
   </entry>
   <entry>
     <title>漫画创造技巧——要点汇总</title>
@@ -3850,7 +3737,7 @@
         <category>Node</category>
       </categories>
       <tags>
-        <tag>漫画创作</tag>
+        <tag>动漫设计</tag>
       </tags>
   </entry>
   <entry>
@@ -4061,7 +3948,7 @@
         <category>Node</category>
       </categories>
       <tags>
-        <tag>视听语言</tag>
+        <tag>动漫设计</tag>
       </tags>
   </entry>
   <entry>
@@ -4217,6 +4104,9 @@
       <categories>
         <category>Node</category>
       </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello！</title>
@@ -4228,14 +4118,14 @@
   <entry>
     <title>dos命令存档</title>
     <url>/2020/08/02/dos%E5%91%BD%E4%BB%A4%E5%AD%98%E6%A1%A3/</url>
-    <content><![CDATA[<h4 id="打开命令窗口"><a href="#打开命令窗口" class="headerlink" title="打开命令窗口"></a>打开命令窗口</h4><ol>
+    <content><![CDATA[<span id="more"></span>
+
+<h4 id="打开命令窗口"><a href="#打开命令窗口" class="headerlink" title="打开命令窗口"></a>打开命令窗口</h4><ol>
 <li>开始+系统+命令提示符</li>
 <li>Windows+R 输入cmd打开控制台</li>
 <li>在任意的文件夹下面，按住shift键+鼠标右键点击，在此处打开命令行窗口 ( Powershell )</li>
 <li>资源管理器的地址栏前面加上 cmd 路径</li>
 </ol>
-<span id="more"></span>
-
 <h5 id="Dos"><a href="#Dos" class="headerlink" title="Dos"></a>Dos</h5><p><a href="https://baike.baidu.com/item/dos/6672671#viewPageContent">( Disk Operating System ), 磁盘操作系统</a></p>
 <h4 id="部分Dos命令"><a href="#部分Dos命令" class="headerlink" title="部分Dos命令"></a>部分Dos命令</h4><h6 id="改变当前盘符"><a href="#改变当前盘符" class="headerlink" title="改变当前盘符"></a>改变当前盘符</h6><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">c:</span><br><span class="line">d:</span><br></pre></td></tr></table></figure>
 
@@ -4490,6 +4380,9 @@
       <categories>
         <category>Node</category>
       </categories>
+      <tags>
+        <tag>概念艺术</tag>
+      </tags>
   </entry>
   <entry>
     <title>纪念教程：Mirai Dice！骰娘搭建</title>
@@ -4683,9 +4576,104 @@
 <p>当然，也有店长经济实力限制目光的原因。店长感叹油价太贵，开了2天的汽车，50元的油竟然快要见底了，于是找到了渠道购买私油。唉，私油客户群中的415人还有店长的43个共同好友呢，原来这样的黑产业链这么庞大。我也无意揭穿什么，生活贫困的人，每天拿着十块钱二十块钱算计，产生这样的黑产业链也不是不能理解。要怪就怪国家的经济水平底下，还让这么多人处在贫困里了。</p>
 <p>2023年11月19日记</p>
 ]]></content>
+      <categories>
+        <category>Node</category>
+      </categories>
       <tags>
-        <tag>打工日记</tag>
-        <tag>家政行业</tag>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Ubuntu22.04安装MySQL流程</title>
+    <url>/2023/05/06/Ubuntu22.04%E5%AE%89%E8%A3%85MySQL%E6%B5%81%E7%A8%8B/</url>
+    <content><![CDATA[<span id="more"></span>
+
+
+<h4 id="1、安装服务器端"><a href="#1、安装服务器端" class="headerlink" title="1、安装服务器端"></a>1、安装服务器端</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> apt-get install mysql-server</span><br></pre></td></tr></table></figure>
+
+<h4 id="2、安装客户端"><a href="#2、安装客户端" class="headerlink" title="2、安装客户端"></a>2、安装客户端</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> apt-get install mysql-client</span><br></pre></td></tr></table></figure>
+
+<h4 id="3、安装-mysql-相关库"><a href="#3、安装-mysql-相关库" class="headerlink" title="3、安装 mysql 相关库"></a>3、安装 mysql 相关库</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> apt-get install libmysqlclient-dev</span><br></pre></td></tr></table></figure>
+
+<h4 id="4、安装成功后查看-MySQL-版本"><a href="#4、安装成功后查看-MySQL-版本" class="headerlink" title="4、安装成功后查看 MySQL 版本"></a>4、安装成功后查看 MySQL 版本</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">mysql -V</span><br></pre></td></tr></table></figure>
+
+
+
+<p><img src="D:\Morlvoid\Morlvoid.github.io\source_posts\Ubuntu22-04安装MySQL\ubuntu22installmysql1.png" alt="查看MySQL版本"></p>
+<h4 id="5、修改-mysqld-cnf-配置文件"><a href="#5、修改-mysqld-cnf-配置文件" class="headerlink" title="5、修改 mysqld.cnf 配置文件"></a>5、修改 mysqld.cnf 配置文件</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> vim /etc/mysql/mysql.conf.d/mysqld.cnf</span><br></pre></td></tr></table></figure>
+
+<p> （1）在 [mysqld] 最后一行加入：  </p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># skip-grant-tables　　　　&lt;-- add # here</span></span><br></pre></td></tr></table></figure>
+
+<p> （2）然后点击 ESC ，输入 ‘ ：wq ’ 进行保存和退出；如下图所示；</p>
+<p> <strong>注：如果不修改 mysqld.cnf 配置文件，修改完 MySQL 的用户名和密码后，在进入 MySQL 时可能会有如下错误，即语法错误拒绝被访问：</strong></p>
+
+
+<p><img src="D:\Morlvoid\Morlvoid.github.io\source_posts\Ubuntu22-04安装MySQL\ubuntu22installmysqlvi2.png" alt="修改配置文件"></p>
+<h4 id="6、查看默认安装的-MySQL-的用户名和密码"><a href="#6、查看默认安装的-MySQL-的用户名和密码" class="headerlink" title="6、查看默认安装的 MySQL 的用户名和密码"></a>6、查看默认安装的 MySQL 的用户名和密码</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> <span class="built_in">cat</span> /etc/mysql/debian.cnf</span><br></pre></td></tr></table></figure>
+
+
+
+<p><img src="D:\Morlvoid\Morlvoid.github.io\source_posts\Ubuntu22-04安装MySQL\ubuntu22installmysql1cnf.png" alt="修改配置文件"></p>
+<h4 id="7、登录-MySQL-；"><a href="#7、登录-MySQL-；" class="headerlink" title="7、登录 MySQL ；"></a>7、登录 MySQL ；</h4><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">mysql -u debian-sys-maint -p    # 换行后输入上述查到的密码</span><br></pre></td></tr></table></figure>
+
+
+
+<img src="ubuntu22installmysqlu1.png" alt="查看默认安装的用户名和密码">
+
+<p><img src="D:\Morlvoid\Morlvoid.github.io\source_posts\Ubuntu22-04安装MySQL\ubuntu22installmysqlu1.png" alt="查看默认安装的用户名和密码"></p>
+<h4 id="8、进入-MySQL-；"><a href="#8、进入-MySQL-；" class="headerlink" title="8、进入 MySQL ；"></a>8、进入 MySQL ；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">use mysql;</span><br></pre></td></tr></table></figure>
+
+<h4 id="9、刷新权限；"><a href="#9、刷新权限；" class="headerlink" title="9、刷新权限；"></a>9、刷新权限；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">flush privileges;</span><br></pre></td></tr></table></figure>
+
+<h4 id="10、修改用户名和密码；"><a href="#10、修改用户名和密码；" class="headerlink" title="10、修改用户名和密码；"></a>10、修改用户名和密码；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ALTER USER <span class="string">&#x27;root&#x27;</span>@<span class="string">&#x27;localhost&#x27;</span> IDENTIFIED WITH caching_sha2_password BY <span class="string">&#x27;123456&#x27;</span>;</span><br></pre></td></tr></table></figure>
+
+<h4 id="11、刷新权限；"><a href="#11、刷新权限；" class="headerlink" title="11、刷新权限；"></a>11、刷新权限；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">flush privileges;</span><br></pre></td></tr></table></figure>
+
+<h4 id="12、退出；"><a href="#12、退出；" class="headerlink" title="12、退出；"></a>12、退出；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">quit;</span><br></pre></td></tr></table></figure>
+
+<h4 id="13、重启-MySQL-；"><a href="#13、重启-MySQL-；" class="headerlink" title="13、重启 MySQL ；"></a>13、重启 MySQL ；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">service mysql restart</span><br></pre></td></tr></table></figure>
+
+<h4 id="14、进入-MySQL-；"><a href="#14、进入-MySQL-；" class="headerlink" title="14、进入 MySQL ；"></a>14、进入 MySQL ；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">mysql -u root -p    <span class="comment"># 回车后输入自己修改后的密码即可</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="若以上过程没有效果，进行以下步骤："><a href="#若以上过程没有效果，进行以下步骤：" class="headerlink" title="若以上过程没有效果，进行以下步骤："></a>若以上过程没有效果，进行以下步骤：</h4><h4 id="15、修改-mysqld-cnf-配置文件"><a href="#15、修改-mysqld-cnf-配置文件" class="headerlink" title="15、修改 mysqld.cnf 配置文件"></a>15、修改 mysqld.cnf 配置文件</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> vim /etc/mysql/debian.cnf</span><br></pre></td></tr></table></figure>
+
+
+
+<p><img src="D:\Morlvoid\Morlvoid.github.io\source_posts\Ubuntu22-04安装MySQL\ubuntu22installmysqlroot.png" alt="修改cnf文件"></p>
+<h4 id="16、保存退出"><a href="#16、保存退出" class="headerlink" title="16、保存退出"></a>16、保存退出</h4><p>键入<code>i</code> 进入，修改user和password<br>键入<code>Esc</code>，输入<code>:wq</code> 保存退出。退出vi后刷新权限退出MySQL，重启</p>
+<h4 id="17、刷新权限；"><a href="#17、刷新权限；" class="headerlink" title="17、刷新权限；"></a>17、刷新权限；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">flush privileges;</span><br></pre></td></tr></table></figure>
+
+<h4 id="18、退出；"><a href="#18、退出；" class="headerlink" title="18、退出；"></a>18、退出；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">quit;</span><br></pre></td></tr></table></figure>
+
+<h4 id="19、重启-MySQL-；"><a href="#19、重启-MySQL-；" class="headerlink" title="19、重启 MySQL ；"></a>19、重启 MySQL ；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">service mysql restart</span><br></pre></td></tr></table></figure>
+
+<h4 id="20、进入-MySQL-；"><a href="#20、进入-MySQL-；" class="headerlink" title="20、进入 MySQL ；"></a>20、进入 MySQL ；</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">mysql -u root -p    <span class="comment"># 回车后输入自己修改后的密码即可</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="修改成功"><a href="#修改成功" class="headerlink" title="修改成功"></a>修改成功</h4><h3 id="MySQL中help手册翻译"><a href="#MySQL中help手册翻译" class="headerlink" title="MySQL中help手册翻译"></a>MySQL中help手册翻译</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">List of all MySQL commands:</span><br><span class="line">Note that all text commands must be first on line and end with <span class="string">&#x27;;&#x27;</span></span><br><span class="line">?         (\?) Synonym <span class="keyword">for</span> `<span class="built_in">help</span><span class="string">&#x27;.</span></span><br><span class="line"><span class="string">clear     (\c) Clear the current input statement.</span></span><br><span class="line"><span class="string">connect   (\r) Reconnect to the server. Optional arguments are db and host.</span></span><br><span class="line"><span class="string">delimiter (\d) Set statement delimiter.</span></span><br><span class="line"><span class="string">edit      (\e) Edit command with $EDITOR.</span></span><br><span class="line"><span class="string">ego       (\G) Send command to mysql server, display result vertically.</span></span><br><span class="line"><span class="string">exit      (\q) Exit mysql. Same as quit.</span></span><br><span class="line"><span class="string">go        (\g) Send command to mysql server.</span></span><br><span class="line"><span class="string">help      (\h) Display this help.</span></span><br><span class="line"><span class="string">nopager   (\n) Disable pager, print to stdout.</span></span><br><span class="line"><span class="string">notee     (\t) Don&#x27;</span>t write into outfile.</span><br><span class="line">pager     (\P) Set PAGER [to_pager]. Print the query results via PAGER.</span><br><span class="line"><span class="built_in">print</span>     (\p) Print current <span class="built_in">command</span>.</span><br><span class="line">prompt    (\R) Change your mysql prompt.</span><br><span class="line">quit      (\q) Quit mysql.</span><br><span class="line"><span class="built_in">rehash</span>    (\#) Rebuild completion <span class="built_in">hash</span>.</span><br><span class="line"><span class="built_in">source</span>    (\.) Execute an SQL script file. Takes a file name as an argument.</span><br><span class="line">status    (\s) Get status information from the server.</span><br><span class="line">system    (\!) Execute a system shell <span class="built_in">command</span>.</span><br><span class="line"><span class="built_in">tee</span>       (\T) Set outfile [to_outfile]. Append everything into given outfile.</span><br><span class="line">use       (\u) Use another database. Takes database name as argument.</span><br><span class="line">charset   (\C) Switch to another charset. Might be needed <span class="keyword">for</span> processing binlog with multi-byte charsets.</span><br><span class="line">warnings  (\W) Show warnings after every statement.</span><br><span class="line">nowarning (\w) Don<span class="string">&#x27;t show warnings after every statement.</span></span><br><span class="line"><span class="string">resetconnection(\x) Clean session context.</span></span><br><span class="line"><span class="string">query_attributes Sets string parameters (name1 value1 name2 value2 ...) for the next query to pick up.</span></span><br><span class="line"><span class="string">ssl_session_data_print Serializes the current SSL session data to stdout or file</span></span><br><span class="line"><span class="string"></span></span><br></pre></td></tr></table></figure>
+
+
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">所有MySQL命令的列表：</span><br><span class="line">请注意，所有文本命令都必须位于第一行，并以“；”结尾</span><br><span class="line">?         （\？）“帮助”的同义词。</span><br><span class="line">clear（\c）清除当前输入语句。</span><br><span class="line">connect（\r）重新连接到服务器。可选参数为db和host。</span><br><span class="line">delimiter（\d）设置语句分隔符。</span><br><span class="line">edit（\e）使用<span class="variable">$EDITOR</span>编辑命令。</span><br><span class="line">ego（\G）向mysql服务器发送命令，垂直显示结果。</span><br><span class="line"><span class="built_in">exit</span>（\q）退出mysql。与退出相同。</span><br><span class="line">go（\g）将命令发送到mysql服务器。</span><br><span class="line"><span class="built_in">help</span>（\h）显示此帮助。</span><br><span class="line">nopage（\n）禁用寻呼机，打印到标准输出。</span><br><span class="line">notee（\t）不要写入outfile。</span><br><span class="line">寻呼机（\P）设置pager[到页面]。通过PAGER打印查询结果。</span><br><span class="line"><span class="built_in">print</span>（\p）打印当前命令。</span><br><span class="line">prompt（\R）更改您的mysql提示符。</span><br><span class="line">quit（\q）退出mysql。</span><br><span class="line"><span class="built_in">rehash</span>（\#）重新生成完成哈希。</span><br><span class="line"><span class="built_in">source</span>（\.）执行SQL脚本文件。将文件名作为参数。</span><br><span class="line">status（\s）从服务器获取状态信息。</span><br><span class="line">system（\！）执行系统shell命令。</span><br><span class="line"><span class="built_in">tee</span>（\T）设置输出文件[to_outfile]。将所有内容附加到给定的外文件中。</span><br><span class="line">use（\u）使用另一个数据库。将数据库名称作为参数。</span><br><span class="line">charset（\C）切换到另一个字符集。可能需要处理具有多字节字符集的binlog。</span><br><span class="line">warnings（\W）在每条语句后显示警告。</span><br><span class="line">nowarning（\w）不要在每条语句后都显示警告。</span><br><span class="line">resetconnection（\x）清除会话上下文。</span><br><span class="line">query_attributes为下一个要提取的查询设置字符串参数（名称1值1名称2值2…）。</span><br><span class="line">ssl_session_data_print将当前ssl会话数据序列化到stdout或文件</span><br></pre></td></tr></table></figure>
+
+
+<h3 id="其他命令："><a href="#其他命令：" class="headerlink" title="其他命令："></a>其他命令：</h3><h4 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> apt update   </span><br></pre></td></tr></table></figure>
+
+<h4 id="免密码进入mysql："><a href="#免密码进入mysql：" class="headerlink" title="免密码进入mysql："></a>免密码进入mysql：</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">sudo</span> mysql -uroot</span><br></pre></td></tr></table></figure>
+
+
+
+<p>参考教程：</p>
+<p><a href="http://t.csdn.cn/x34S">Ubuntu 20.04 + mysql 8.0.27 用户名和密码修改</a></p>
+]]></content>
+      <categories>
+        <category>Node</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>Ubuntu</tag>
+        <tag>Ubuntu22.04</tag>
+        <tag>Ubuntu22.04安装MySQL</tag>
       </tags>
   </entry>
 </search>
